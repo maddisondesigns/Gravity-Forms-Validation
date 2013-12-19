@@ -7,6 +7,6 @@
  *
  * Hey, don't blame me for all the classes. Blame Gravity Forms for their ridiculous specificity that require a bajillion classes just to override!
  */
-.gform_wrapper .gform_body .top_label .gfield_label {
+#gform_wrapper_1 .gform_body .top_label .gfield_label {
 	display: none;
 }
