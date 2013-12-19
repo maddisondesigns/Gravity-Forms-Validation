@@ -21,5 +21,8 @@ Obviously, you don't wont to use this if you actually want the default values to
 
 == Changelog ==
 
+= 1.1 =
+- Change the gform_wrapper class to an ID so we only hide the labels on forms with ID 1
+
 = 1.0 =
 - Initial version
